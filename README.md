@@ -7,13 +7,13 @@ Welcome to the implementation of Conway's Game of Life in Java. The Game of Life
 
 The project comprises the following classes:
 
-1. **Point:** Represents a point on the board. Each point has coordinates (x, y) and can be alive or dead.
+1. `Point:` Represents a point on the board. Each point has coordinates (x, y) and can be alive or dead.
 
-2. **Main:** Main class to execute the game. It contains the `main` method that initiates the game.
+2. `Main:` Main class to execute the game. It contains the main method that initiates the game.
 
-3. **GraphicBoard:** Class for visualizing the board with all cells. It provides methods to display the current state of the board graphically.
+3. `GraphicBoard:` Class for visualizing the board with all cells. It provides methods to display the current state of the board graphically.
 
-4. **GameOfLife:** The main class where the game is created, and relevant rules are applied. It contains the game logic, including the evolution of the board according to the rules of the Game of Life.
+4. `GameOfLife:` The main class where the game is created, and relevant rules are applied. It contains the game logic, including the evolution of the board according to the rules of the Game of Life.
 
-5. **Test:** Test class for unit testing. Test-Driven Development (TDD) principles are applied to test and improve the game incrementally.
+5. `Test:` Test class for unit testing. Test-Driven Development (TDD) principles are applied to test and improve the game incrementally.
 
