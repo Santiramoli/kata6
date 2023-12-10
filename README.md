@@ -21,4 +21,5 @@ The project comprises the following classes:
 5. `Test:` Test class for unit testing. Test-Driven Development (TDD) principles are applied to test and improve the game incrementally.
      
    
-**NOTE!** This project uses Maven for dependency management and build automation.
+> [NOTE]
+> This project uses Maven for dependency management and build automation.
