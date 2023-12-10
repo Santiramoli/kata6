@@ -23,4 +23,4 @@ The project comprises the following classes:
    
 
 
-**NOTE!** This project uses Maven for dependency management and build automation.
+- **NOTE!** This project uses Maven for dependency management and build automation.
