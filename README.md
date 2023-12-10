@@ -1,7 +1,10 @@
 # Kata 6
 ## Conway's Game of Life in Java
 
+<p style="text-align: justify;">
 Welcome to the implementation of Conway's Game of Life in Java. The Game of Life is a cellular automaton devised by mathematician John Conway. It is a zero-player game, meaning that its evolution is determined by its initial state, with no further input. Despite its simple rules, the Game of Life exhibits complex and fascinating patterns.
+</p>
+
 
 ## Project Structure
 
