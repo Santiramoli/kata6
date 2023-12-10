@@ -18,6 +18,8 @@ The project comprises the following classes:
 
 4. `GameOfLife:` The main class where the game is created, and relevant rules are applied. It contains the game logic, including the evolution of the board according to the rules of the Game of Life.
 
-5. `Test:` Test class for unit testing. Test-Driven Development (TDD) principles are applied to test and improve the game incrementally.<br>
+5. `Test:` Test class for unit testing. Test-Driven Development (TDD) principles are applied to test and improve the game incrementally.
+   
+
 
 **NOTE!** This project uses Maven for dependency management and build automation.
